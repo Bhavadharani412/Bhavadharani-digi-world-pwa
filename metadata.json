@@ -1,0 +1,6 @@
+{
+  "name": "Bhava digi-world",
+  "description": "A beautiful, feminine digital sanctuary for personal growth and aesthetic productivity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
